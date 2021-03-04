@@ -1,2 +1,2 @@
 # lab1
-Thao is a pig :)) 
+Thao is a dog pig :)) 
